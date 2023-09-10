@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+td {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10pt;
+    box-sizing: border-box;
+    width: 67px;
+    height: 86px;
+  }
+
+.noBorder{
+  border: none;
+}
+.headingOne{
+  background-color: aquamarine;
+  text-align: center;
+  padding: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4vw;
+}
+.hyd{
+  background-color: #99e599;
+  color: #2f8b56;
+
+}
+.pink{
+  background-color: #ffcce5;
+  color: #cf0c3d;
+}
+.yellow{
+  background-color: #ffe57f;
+  color: #d3a311;
+}
+
+.peach {
+  background-color: #ffccb2;
+  color: #a03e0c;
+}
+.mg {
+  background-color: #EA8350;
+  color: #fffdfd;
+}
+.transition {
+  background-color: #b2e5ff;
+  color: #0099cc;
+}
+.flowerBlue{
+  background-color: #b2ccff;
+  color: #005ccc;
+}
+.magicGreen{
+  background-color: #7fe5e5;
+  color: #127f7f;
+}
+.green{
+  background-color: #99efb2;
+  color: #2f8b56;
+}
+.magicBlack{
+  background-color: #cccccc;
+  color: #6c6d6d;
+}
+.purple{
+  background-color: #9e87bd;
+  color: #5513be;
+}
